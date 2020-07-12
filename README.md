@@ -51,7 +51,7 @@
 - *Темы:* `numpy`, `pandas`, `matplotlib`
 - *Ссылка:* https://github.com/KovalevEvgeny/dpo-ml-2020/tree/master/homeworks/hw01
 - *Дата выдачи:* 30.06.2020
-- *Дедлайн:* 14.07.2020 23:59
+- *Дедлайн:* **14.07.2020 23:59**
 
 ## Ссылки
 
