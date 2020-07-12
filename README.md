@@ -5,16 +5,19 @@
 
 Ассистент: Нарек Алвандян (telegram: [@narekvslife](https://t.me/narekvslife))
 
+## Формула оценки
+
+- Оценка_итоговая = 0.8 * Оценка_ДЗ + 0.2 * Оценка_тесты
+- 10-балльная система оценивания
+- Для зачета нужно получить 6 и выше
+
 ## Лекции
 
 **Лекция 1. Введение и основные задачи.**
 
 - [Презентация](https://nbviewer.jupyter.org/github/KovalevEvgeny/dpo-ml-2020/blob/master/lectures/lecture01-intro.pdf)
-
 - [Ноутбук по `numpy`](https://nbviewer.jupyter.org/github/KovalevEvgeny/dpo-ml-2020/blob/master/seminars/sem01_intro/sem01_numpy.ipynb)
-
 - [Ноутбук по `pandas`](https://nbviewer.jupyter.org/github/KovalevEvgeny/dpo-ml-2020/blob/master/seminars/sem01_intro/sem01_pandas.ipynb)
-
 - [Ноутбук по `matplotlib`](https://nbviewer.jupyter.org/github/KovalevEvgeny/dpo-ml-2020/blob/master/seminars/sem01_intro/sem01_matplotlib.ipynb)
 
 **Лекция 2. Линейная регрессия.**
@@ -43,12 +46,9 @@
 
 **Домашнее задание №1**
 
-- *Темы:* numpy, pandas, matplotlib
-
+- *Темы:* `numpy`, `pandas`, `matplotlib`
 - *Ссылка:* https://github.com/KovalevEvgeny/dpo-ml-2020/tree/master/homeworks/hw01
-
 - *Дата выдачи:* 30.06.2020
-
 - *Дедлайн:* 14.07.2020 23:59
 
 ## Ссылки
