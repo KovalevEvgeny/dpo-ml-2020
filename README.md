@@ -1,9 +1,9 @@
 # dpo-ml-2020
 Материалы блока 4 "Машинное обучение" [специализации DS](https://cs.hse.ru/dpo/datascientist)
 
-Семинарист: Евгений Ковалев (telegram: @KovalevEvgeny)
+Семинарист: Евгений Ковалев (telegram: [@KovalevEvgeny](https://t.me/KovalevEvgeny))
 
-Ассистент: Нарек Алвандян (telegram: @narekvslife)
+Ассистент: Нарек Алвандян (telegram: [@narekvslife](https://t.me/narekvslife))
 
 ## Лекции
 
