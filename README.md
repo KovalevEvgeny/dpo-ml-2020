@@ -5,6 +5,34 @@
 
 Ассистент: Нарек Алвандян (telegram: @narekvslife)
 
+## Лекции
+
+**Лекция 1. Введение и основные задачи.**
+
+- [Презентация](https://nbviewer.jupyter.org/github/KovalevEvgeny/dpo-ml-2020/blob/master/lectures/lecture01-intro.pdf)
+
+- [Ноутбук по `numpy`](https://nbviewer.jupyter.org/github/KovalevEvgeny/dpo-ml-2020/blob/master/seminars/sem01_intro/sem01_numpy.ipynb)
+
+- [Ноутбук по `pandas`](https://nbviewer.jupyter.org/github/KovalevEvgeny/dpo-ml-2020/blob/master/seminars/sem01_intro/sem01_pandas.ipynb)
+
+- [Ноутбук по `matplotlib`](https://nbviewer.jupyter.org/github/KovalevEvgeny/dpo-ml-2020/blob/master/seminars/sem01_intro/sem01_matplotlib.ipynb)
+
+**Лекция 2. Линейная регрессия.**
+
+- [Презентация](https://nbviewer.jupyter.org/github/KovalevEvgeny/dpo-ml-2020/blob/master/lectures/lecture02-linreg.pdf)
+- [Ноутбук](https://nbviewer.jupyter.org/github/KovalevEvgeny/dpo-ml-2020/blob/master/seminars/sem02_linreg/sem02_linreg.ipynb)
+
+**Лекция 3. Градиентные методы обучения.**
+
+- [Презентация](https://nbviewer.jupyter.org/github/KovalevEvgeny/dpo-ml-2020/blob/master/lectures/lecture03-grads.pdf)
+- [Ноутбук (версия с заданиями)](https://nbviewer.jupyter.org/github/KovalevEvgeny/dpo-ml-2020/blob/master/seminars/sem03_grads/sem03_grads.ipynb)
+- [Ноутбук (версия с решениями)](https://nbviewer.jupyter.org/github/KovalevEvgeny/dpo-ml-2020/blob/master/seminars/sem03_grads/sem03_grads-solved.ipynb)
+
+**Лекция 4. Линейная классификация и метрики качества классификации.**
+
+- [Презентация](https://nbviewer.jupyter.org/github/KovalevEvgeny/dpo-ml-2020/blob/master/lectures/lecture04-linclass.pdf)
+- [Ноутбук](https://nbviewer.jupyter.org/github/KovalevEvgeny/dpo-ml-2020/blob/master/seminars/sem04_linclass/sem04_linclass.ipynb)
+
 ## Домашние задания
 
 За сдачу задания позже срока на итоговую оценку за задание накладывается штраф в размере 0.25 балла в день, но получить отрицательную оценку нельзя.
