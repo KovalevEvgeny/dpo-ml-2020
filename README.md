@@ -7,6 +7,8 @@
 
 Лекции проходят по вторникам с 19:00 до 22:00.
 
+Таблица с оценками: https://docs.google.com/spreadsheets/d/1miyCGvU1o9fHAP4VhNxBaQ68AAxEONXSSYgWENgtEc4/edit#gid=0
+
 ## Формула оценки
 
 - Оценка_итоговая = 0.8 * Оценка_ДЗ + 0.2 * Оценка_тесты
