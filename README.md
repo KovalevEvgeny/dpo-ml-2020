@@ -50,6 +50,11 @@
 - [Презентация](https://nbviewer.jupyter.org/github/KovalevEvgeny/dpo-ml-2020/blob/master/lectures/lecture06-multiclass_categorical.pdf)
 - [Ноутбук](https://nbviewer.jupyter.org/github/KovalevEvgeny/dpo-ml-2020/blob/master/seminars/sem06_texts/sem06_texts.ipynb)
 
+**Лекция 7. Решающие деревья. _(01.09.2020)_**
+
+- [Презентация](https://nbviewer.jupyter.org/github/KovalevEvgeny/dpo-ml-2020/blob/master/lectures/lecture07-decision_trees.pdf)
+- [Ноутбук](https://nbviewer.jupyter.org/github/KovalevEvgeny/dpo-ml-2020/blob/master/seminars/sem07_trees/sem07_trees.ipynb)
+
 ## Домашние задания
 
 За сдачу задания позже срока на итоговую оценку за задание накладывается штраф в размере 0.25 балла в день, но получить отрицательную оценку нельзя.
@@ -71,6 +76,7 @@
 - *Ссылка:* https://github.com/KovalevEvgeny/dpo-ml-2020/tree/master/homeworks/hw02
 - *Дата выдачи:* 17.07.2020
 - *Дедлайн:* **02.08.2020 23:59**
+- *Дедлайн со штрафом (максимум 8 баллов):* **10.09.2020 23:59**
 
 ## Что почитать
 
