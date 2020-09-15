@@ -62,6 +62,9 @@
 
 **Лекция 9. Градиентный бустинг.**
 
+- [Презентация](https://nbviewer.jupyter.org/github/KovalevEvgeny/dpo-ml-2020/blob/master/lectures/lecture09-gradboost.pdf)
+- [Ноутбук](https://nbviewer.jupyter.org/github/KovalevEvgeny/dpo-ml-2020/blob/master/seminars/sem09_gradboost/sem09_gradboost.ipynb)
+
 **Лекция 10. Градиентный бустинг: имплементации.**
 
 **Лекция 11. Отбор признаков и понижение размерности.**
