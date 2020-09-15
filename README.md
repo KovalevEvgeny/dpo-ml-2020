@@ -60,7 +60,7 @@
 - [Презентация](https://nbviewer.jupyter.org/github/KovalevEvgeny/dpo-ml-2020/blob/master/lectures/lecture08-ensembles.pdf)
 - [Ноутбук](https://nbviewer.jupyter.org/github/KovalevEvgeny/dpo-ml-2020/blob/master/seminars/sem08_ensembles/sem08_ensembles.ipynb)
 
-**Лекция 9. Градиентный бустинг. _(15.09.2020)**
+**Лекция 9. Градиентный бустинг. _(15.09.2020)_**
 
 - [Презентация](https://nbviewer.jupyter.org/github/KovalevEvgeny/dpo-ml-2020/blob/master/lectures/lecture09-gradboost.pdf)
 - [Ноутбук](https://nbviewer.jupyter.org/github/KovalevEvgeny/dpo-ml-2020/blob/master/seminars/sem09_gradboost/sem09_gradboost.ipynb)
