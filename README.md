@@ -65,7 +65,7 @@
 - [Презентация](https://nbviewer.jupyter.org/github/KovalevEvgeny/dpo-ml-2020/blob/master/lectures/lecture09-gradboost.pdf)
 - [Ноутбук](https://nbviewer.jupyter.org/github/KovalevEvgeny/dpo-ml-2020/blob/master/seminars/sem09_gradboost/sem09_gradboost.ipynb)
 
-**Лекция 10. Градиентный бустинг: имплементации. __(22.09.2020)__**
+**Лекция 10. Градиентный бустинг: имплементации. _(22.09.2020)_**
 
 - [Презентация](https://nbviewer.jupyter.org/github/KovalevEvgeny/dpo-ml-2020/blob/master/lectures/lecture10-gradboost2.pdf)
 - [Ноутбук](https://nbviewer.jupyter.org/github/KovalevEvgeny/dpo-ml-2020/blob/master/seminars/sem10_gradboost2/sem10_gradboost2.ipynb)
