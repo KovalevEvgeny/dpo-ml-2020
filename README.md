@@ -70,7 +70,10 @@
 - [Презентация](https://nbviewer.jupyter.org/github/KovalevEvgeny/dpo-ml-2020/blob/master/lectures/lecture10-gradboost2.pdf)
 - [Ноутбук](https://nbviewer.jupyter.org/github/KovalevEvgeny/dpo-ml-2020/blob/master/seminars/sem10_gradboost2/sem10_gradboost2.ipynb)
 
-**Лекция 11. Отбор признаков и понижение размерности.**
+**Лекция 11. Отбор признаков и понижение размерности. _(29.09.2020)_**
+
+- [Презентация](https://nbviewer.jupyter.org/github/KovalevEvgeny/dpo-ml-2020/blob/master/lectures/lecture11-dimensionality_reduction.pdf)
+- [Ноутбук](https://nbviewer.jupyter.org/github/KovalevEvgeny/dpo-ml-2020/blob/master/seminars/sem11_dimensionality_reduction/sem11_dimensionality_reduction.ipynb)
 
 **Лекция 12. Кластеризация.**
 
