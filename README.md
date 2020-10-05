@@ -75,6 +75,10 @@
 - [Презентация](https://nbviewer.jupyter.org/github/KovalevEvgeny/dpo-ml-2020/blob/master/lectures/lecture11-dimensionality_reduction.pdf)
 - [Ноутбук](https://nbviewer.jupyter.org/github/KovalevEvgeny/dpo-ml-2020/blob/master/seminars/sem11_dimensionality_reduction/sem11_dimensionality_reduction.ipynb)
 
+**Консультация. _(05.10.2020)_**
+
+- [Презентация](https://nbviewer.jupyter.org/github/KovalevEvgeny/dpo-ml-2020/blob/master/lectures/consultation.pdf)
+
 **Лекция 12. Кластеризация.**
 
 **Лекция 13. Поиск аномалий.**
