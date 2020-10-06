@@ -79,7 +79,10 @@
 
 - [Презентация](https://nbviewer.jupyter.org/github/KovalevEvgeny/dpo-ml-2020/blob/master/lectures/consultation.pdf)
 
-**Лекция 12. Кластеризация.**
+**Лекция 12. Кластеризация. _(06.10.2020)_**
+
+- [Презентация](https://nbviewer.jupyter.org/github/KovalevEvgeny/dpo-ml-2020/blob/master/lectures/lecture12-clustering.pdf)
+- [Ноутбук](https://nbviewer.jupyter.org/github/KovalevEvgeny/dpo-ml-2020/blob/master/seminars/sem12_clustering/sem12_clustering.ipynb)
 
 **Лекция 13. Поиск аномалий.**
 
