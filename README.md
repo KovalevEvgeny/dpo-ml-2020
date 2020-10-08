@@ -83,6 +83,7 @@
 
 - [Презентация](https://nbviewer.jupyter.org/github/KovalevEvgeny/dpo-ml-2020/blob/master/lectures/lecture12-clustering.pdf)
 - [Ноутбук](https://nbviewer.jupyter.org/github/KovalevEvgeny/dpo-ml-2020/blob/master/seminars/sem12_clustering/sem12_clustering.ipynb)
+- [Ноутбук (заполненная версия с семинара)](https://nbviewer.jupyter.org/github/KovalevEvgeny/dpo-ml-2020/blob/master/seminars/sem12_clustering/sem12_clustering_filled.ipynb)
 
 **Лекция 13. Поиск аномалий.**
 
