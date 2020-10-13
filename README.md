@@ -85,7 +85,10 @@
 - [Ноутбук](https://nbviewer.jupyter.org/github/KovalevEvgeny/dpo-ml-2020/blob/master/seminars/sem12_clustering/sem12_clustering.ipynb)
 - [Ноутбук (заполненная версия с семинара)](https://nbviewer.jupyter.org/github/KovalevEvgeny/dpo-ml-2020/blob/master/seminars/sem12_clustering/sem12_clustering_filled.ipynb)
 
-**Лекция 13. Поиск аномалий.**
+**Лекция 13. Поиск аномалий. _(15.10.2020)**
+
+- [Презентация](https://nbviewer.jupyter.org/github/KovalevEvgeny/dpo-ml-2020/blob/master/lectures/lecture13-anomaly_detection.pdf)
+- [Ноутбук](https://nbviewer.jupyter.org/github/KovalevEvgeny/dpo-ml-2020/blob/master/seminars/sem13_anomaly_detection/sem13_anomaly_detection.ipynb)
 
 **Лекция 14. Рекомендательные системы.**
 
