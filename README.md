@@ -90,7 +90,10 @@
 - [Презентация](https://nbviewer.jupyter.org/github/KovalevEvgeny/dpo-ml-2020/blob/master/lectures/lecture13-anomaly_detection.pdf)
 - [Ноутбук](https://nbviewer.jupyter.org/github/KovalevEvgeny/dpo-ml-2020/blob/master/seminars/sem13_anomaly_detection/sem13_anomaly_detection.ipynb)
 
-**Лекция 14. Рекомендательные системы.**
+**Лекция 14. Рекомендательные системы. _(20.10.2020)_**
+
+- [Презентация](https://nbviewer.jupyter.org/github/KovalevEvgeny/dpo-ml-2020/blob/master/lectures/lecture14-recsys.pdf)
+- [Ноутбук](https://nbviewer.jupyter.org/github/KovalevEvgeny/dpo-ml-2020/blob/master/seminars/sem14_recsys/sem14_recsys.ipynb)
 
 **Лекция 15. Ранжирование.**
 
