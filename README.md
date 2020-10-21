@@ -94,7 +94,8 @@
 
 - [Презентация](https://nbviewer.jupyter.org/github/KovalevEvgeny/dpo-ml-2020/blob/master/lectures/lecture14-recsys.pdf)
 - [Ноутбук](https://nbviewer.jupyter.org/github/KovalevEvgeny/dpo-ml-2020/blob/master/seminars/sem14_recsys/sem14_recsys.ipynb)
-
+- [Ноутбук (заполненная версия с семинара)](https://nbviewer.jupyter.org/github/KovalevEvgeny/dpo-ml-2020/blob/master/seminars/sem14_recsys/sem14_recsys_filled.ipynb)
+ 
 **Лекция 15. Ранжирование.**
 
 **Лекция 16. Заключение.**
