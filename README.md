@@ -96,7 +96,10 @@
 - [Ноутбук](https://nbviewer.jupyter.org/github/KovalevEvgeny/dpo-ml-2020/blob/master/seminars/sem14_recsys/sem14_recsys.ipynb)
 - [Ноутбук (заполненная версия с семинара)](https://nbviewer.jupyter.org/github/KovalevEvgeny/dpo-ml-2020/blob/master/seminars/sem14_recsys/sem14_recsys_filled.ipynb)
  
-**Лекция 15. Ранжирование.**
+**Лекция 15. Ранжирование. _(27.10.2020)_**
+
+- [Презентация](https://nbviewer.jupyter.org/github/KovalevEvgeny/dpo-ml-2020/blob/master/lectures/lecture15-ranking.pdf)
+- [Ноутбук](https://nbviewer.jupyter.org/github/KovalevEvgeny/dpo-ml-2020/blob/master/seminars/sem15_ranking/sem15_ranking.ipynb)
 
 **Лекция 16. Заключение.**
 
