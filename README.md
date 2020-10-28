@@ -100,6 +100,7 @@
 
 - [Презентация](https://nbviewer.jupyter.org/github/KovalevEvgeny/dpo-ml-2020/blob/master/lectures/lecture15-ranking.pdf)
 - [Ноутбук](https://nbviewer.jupyter.org/github/KovalevEvgeny/dpo-ml-2020/blob/master/seminars/sem15_ranking/sem15_ranking.ipynb)
+- [Ноутбук (заполненная версия с семинара)](https://nbviewer.jupyter.org/github/KovalevEvgeny/dpo-ml-2020/blob/master/seminars/sem15_ranking/sem15_ranking_filled.ipynb)
 
 **Лекция 16. Заключение.**
 
